@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-fundementals/static/css/main.97477597.css",
+    "main.js": "/react-fundementals/static/js/main.3129d197.js",
+    "static/media/book-3.jpg": "/react-fundementals/static/media/book-3.575c7aef3c730d6648a7.jpg",
+    "static/media/book-2.jpg": "/react-fundementals/static/media/book-2.0df6e9e4c3b0223628ae.jpg",
+    "static/media/book-1.jpg": "/react-fundementals/static/media/book-1.25dd7b5bff0fb2873dcf.jpg",
+    "index.html": "/react-fundementals/index.html",
+    "main.97477597.css.map": "/react-fundementals/static/css/main.97477597.css.map",
+    "main.3129d197.js.map": "/react-fundementals/static/js/main.3129d197.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97477597.css",
+    "static/js/main.3129d197.js"
+  ]
+}
